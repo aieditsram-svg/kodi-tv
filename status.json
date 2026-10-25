@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-25 06:17 UTC",
+  "checked_at": "2026-10-25 07:10 UTC",
   "total": 87,
-  "working": 68,
-  "dead": 19,
+  "working": 70,
+  "dead": 17,
   "dead_channels": [
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -33,11 +33,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTPError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -78,11 +73,6 @@
       "name": "Sony BBC Earth HD (1080p)",
       "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sony Pix HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
-      "reason": "HTTPError"
     },
     {
       "name": "Sony Yay! (576p)",

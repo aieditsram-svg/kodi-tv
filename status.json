@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-25 08:55 UTC",
+  "checked_at": "2026-10-25 09:16 UTC",
   "total": 87,
-  "working": 67,
-  "dead": 20,
+  "working": 68,
+  "dead": 19,
   "dead_channels": [
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -68,11 +68,6 @@
       "name": "Hungama TV (576p)",
       "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Metro TV (India) (1080p)",
-      "url": "https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8",
-      "reason": "HTTPError"
     },
     {
       "name": "Nickelodeon (India) (576p)",

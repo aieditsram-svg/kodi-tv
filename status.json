@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-26 02:04 UTC",
+  "checked_at": "2026-10-26 03:01 UTC",
   "total": 87,
-  "working": 66,
-  "dead": 21,
+  "working": 67,
+  "dead": 20,
   "dead_channels": [
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -58,11 +58,6 @@
       "name": "ETV Telugu HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8",
       "reason": "HTTPError"
-    },
-    {
-      "name": "Gospel TV India (576p)",
-      "url": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Hindu Dharmam (1080p)",

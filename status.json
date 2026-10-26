@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-26 05:03 UTC",
+  "checked_at": "2026-10-26 05:59 UTC",
   "total": 87,
-  "working": 67,
-  "dead": 20,
+  "working": 65,
+  "dead": 22,
   "dead_channels": [
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -70,6 +70,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Raj News Telugu (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Sonic (576p)",
       "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
       "reason": "URLError"
@@ -78,11 +83,6 @@
       "name": "Sony BBC Earth HD (1080p)",
       "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sony Pix HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
-      "reason": "HTTPError"
     },
     {
       "name": "Sony Yay! (576p)",
@@ -102,6 +102,16 @@
     {
       "name": "Super Hungama (576p)",
       "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Tolly TV (1080p)",
+      "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Vissa TV (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8",
       "reason": "URLError"
     }
   ]

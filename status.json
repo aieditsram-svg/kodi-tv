@@ -1,18 +1,13 @@
 {
-  "checked_at": "2026-10-27 10:05 UTC",
+  "checked_at": "2026-10-27 11:02 UTC",
   "total": 87,
-  "working": 66,
-  "dead": 21,
+  "working": 67,
+  "dead": 20,
   "dead_channels": [
     {
       "name": "Disney Channel (India) HD (1080p)",
       "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Divyavani TV (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8",
-      "reason": "HTTPError"
     },
     {
       "name": "ETV Andhra Pradesh (1080p)",
@@ -60,13 +55,18 @@
       "reason": "HTTPError"
     },
     {
+      "name": "History TV18 HD (1080p) [Geo-blocked]",
+      "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+      "reason": "HTTPError"
+    },
+    {
       "name": "Hungama TV (576p)",
       "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8",
       "reason": "URLError"
     },
     {
-      "name": "Mahaa News (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8",
+      "name": "Mango Mobile TV (1080p)",
+      "url": "https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8",
       "reason": "HTTPError"
     },
     {
@@ -83,11 +83,6 @@
       "name": "Sony BBC Earth HD (1080p)",
       "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sony Pix HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
-      "reason": "HTTPError"
     },
     {
       "name": "Sony Yay! (576p)",

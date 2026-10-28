@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-28 06:05 UTC",
+  "checked_at": "2026-10-28 07:30 UTC",
   "total": 87,
-  "working": 69,
-  "dead": 18,
+  "working": 70,
+  "dead": 17,
   "dead_channels": [
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -82,11 +82,6 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTPError"
-    },
-    {
-      "name": "Sun Gemini (576p)",
-      "url": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8",
       "reason": "HTTPError"
     },
     {

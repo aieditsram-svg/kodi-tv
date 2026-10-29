@@ -1,19 +1,9 @@
 {
-  "checked_at": "2026-10-29 05:09 UTC",
+  "checked_at": "2026-10-29 06:06 UTC",
   "total": 86,
-  "working": 62,
-  "dead": 24,
+  "working": 65,
+  "dead": 21,
   "dead_channels": [
-    {
-      "name": "Aastha Telugu (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "CVR News (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8",
-      "reason": "URLError"
-    },
     {
       "name": "Disney Channel (India) HD (1080p)",
       "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
@@ -23,11 +13,6 @@
       "name": "Disney Junior (India) (576p)",
       "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
       "reason": "HTTPError"
-    },
-    {
-      "name": "Divyavani TV (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "ETV Andhra Pradesh (1080p)",
@@ -72,7 +57,7 @@
     {
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTPError"
     },
     {
       "name": "Hungama TV (576p)",

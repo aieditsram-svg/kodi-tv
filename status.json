@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-30 04:32 UTC",
+  "checked_at": "2026-10-30 05:30 UTC",
   "total": 86,
-  "working": 63,
-  "dead": 23,
+  "working": 65,
+  "dead": 21,
   "dead_channels": [
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -40,11 +40,6 @@
       "reason": "HTTPError"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -73,11 +68,6 @@
       "name": "Nickelodeon (India) (576p)",
       "url": "http://103.185.24.134:3001/NICK/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",Nireekshana TV (576p)",
-      "url": "https://fta.ektv.in/live/706/master.m3u8",
-      "reason": "HTTPError"
     },
     {
       "name": "Pogo (576p)",

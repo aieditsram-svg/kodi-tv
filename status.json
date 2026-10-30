@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-30 11:24 UTC",
+  "checked_at": "2026-10-30 12:05 UTC",
   "total": 86,
-  "working": 62,
-  "dead": 24,
+  "working": 64,
+  "dead": 22,
   "dead_channels": [
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -110,18 +110,8 @@
       "reason": "HTTPError"
     },
     {
-      "name": "Studio Yuva (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Super Hungama (576p)",
       "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Vanitha TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8",
       "reason": "URLError"
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-30 15:17 UTC",
+  "checked_at": "2026-10-30 16:12 UTC",
   "total": 86,
-  "working": 65,
-  "dead": 21,
+  "working": 64,
+  "dead": 22,
   "dead_channels": [
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -63,6 +63,11 @@
       "name": "Hungama TV (576p)",
       "url": "http://66.102.126.10:8000/play/a023/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Mahaa News (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8",
+      "reason": "HTTPError"
     },
     {
       "name": "Nickelodeon (India) (576p)",

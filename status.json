@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-30 07:35 UTC",
+  "checked_at": "2026-10-30 08:39 UTC",
   "total": 86,
-  "working": 63,
-  "dead": 23,
+  "working": 65,
+  "dead": 21,
   "dead_channels": [
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -20,11 +20,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -38,6 +33,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTPError"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -62,11 +62,6 @@
     {
       "name": "Hungama TV (576p)",
       "url": "http://66.102.126.10:8000/play/a023/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Mojo TV (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -112,11 +107,6 @@
     {
       "name": "Super Hungama (576p)",
       "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Vissa TV (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8",
       "reason": "URLError"
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-01 02:36 UTC",
+  "checked_at": "2026-11-01 03:37 UTC",
   "total": 83,
-  "working": 64,
-  "dead": 19,
+  "working": 63,
+  "dead": 20,
   "dead_channels": [
     {
       "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"General\",DD Yadagiri (576p)",
@@ -60,6 +60,11 @@
       "reason": "HTTPError"
     },
     {
+      "name": "Gospel TV India (576p)",
+      "url": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8",
+      "reason": "HTTPError"
+    },
+    {
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "HTTPError"
@@ -97,7 +102,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTPError"
     }
   ]
 }

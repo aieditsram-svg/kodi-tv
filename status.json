@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-03 04:39 UTC",
+  "checked_at": "2026-11-03 05:40 UTC",
   "total": 83,
-  "working": 62,
-  "dead": 21,
+  "working": 63,
+  "dead": 20,
   "dead_channels": [
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -57,11 +57,6 @@
     {
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
-      "reason": "HTTPError"
-    },
-    {
-      "name": "Metro TV (India) (1080p)",
-      "url": "https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8",
       "reason": "HTTPError"
     },
     {

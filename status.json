@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-04 09:21 UTC",
+  "checked_at": "2026-11-04 11:43 UTC",
   "total": 83,
-  "working": 63,
-  "dead": 20,
+  "working": 61,
+  "dead": 22,
   "dead_channels": [
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -55,6 +55,11 @@
       "reason": "HTTPError"
     },
     {
+      "name": "Mojo TV (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlMOJOTV/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Nickelodeon (India) (576p)",
       "url": "http://103.185.24.134:3001/NICK/index.m3u8",
       "reason": "URLError"
@@ -103,6 +108,11 @@
       "name": "Vanitha TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8",
       "reason": "HTTPError"
+    },
+    {
+      "name": "Vissa TV (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8",
+      "reason": "URLError"
     }
   ]
 }

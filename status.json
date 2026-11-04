@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-04 08:06 UTC",
+  "checked_at": "2026-11-04 09:21 UTC",
   "total": 83,
-  "working": 64,
-  "dead": 19,
+  "working": 63,
+  "dead": 20,
   "dead_channels": [
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -58,6 +58,11 @@
       "name": "Nickelodeon (India) (576p)",
       "url": "http://103.185.24.134:3001/NICK/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",Nireekshana TV (576p)",
+      "url": "https://fta.ektv.in/live/706/master.m3u8",
+      "reason": "HTTPError"
     },
     {
       "name": "Pogo (576p)",

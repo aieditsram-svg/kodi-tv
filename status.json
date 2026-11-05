@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-05 17:47 UTC",
+  "checked_at": "2026-11-05 18:38 UTC",
   "total": 83,
-  "working": 63,
-  "dead": 20,
+  "working": 64,
+  "dead": 19,
   "dead_channels": [
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -77,11 +77,6 @@
     {
       "name": "Sony Pix HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
-      "reason": "HTTPError"
-    },
-    {
-      "name": "Star Maa HD (720p)",
-      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8",
       "reason": "HTTPError"
     },
     {

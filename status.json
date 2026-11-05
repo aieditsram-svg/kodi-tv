@@ -1,9 +1,14 @@
 {
-  "checked_at": "2026-11-05 13:41 UTC",
+  "checked_at": "2026-11-05 14:46 UTC",
   "total": 83,
-  "working": 63,
-  "dead": 20,
+  "working": 62,
+  "dead": 21,
   "dead_channels": [
+    {
+      "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"General\",DD Yadagiri (576p)",
+      "url": "https://fta.ektv.in/live/678/master.m3u8",
+      "reason": "HTTPError"
+    },
     {
       "name": "Disney Channel (India) HD (1080p)",
       "url": "http://66.102.126.10:8000/play/a013/index.m3u8",

@@ -1,18 +1,13 @@
 {
-  "checked_at": "2026-11-07 13:20 UTC",
+  "checked_at": "2026-11-07 14:09 UTC",
   "total": 86,
-  "working": 66,
-  "dead": 20,
+  "working": 67,
+  "dead": 19,
   "dead_channels": [
     {
       "name": "BRK News (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
       "reason": "HTTPError"
-    },
-    {
-      "name": "Chhaya Chitram Telugu (360p)",
-      "url": "https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Disney Channel (India) HD (1080p)",

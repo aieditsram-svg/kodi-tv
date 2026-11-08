@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-08 03:39 UTC",
+  "checked_at": "2026-11-08 04:40 UTC",
   "total": 83,
-  "working": 64,
-  "dead": 19,
+  "working": 66,
+  "dead": 17,
   "dead_channels": [
     {
       "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",CVR OM Spiritual (576p)",
@@ -82,16 +82,6 @@
     {
       "name": "Sony BBC Earth HD (1080p)",
       "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sony Yay! (576p)",
-      "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "HTTPError"
-    },
-    {
-      "name": "Star Sports 2 Telugu HD (576p)",
-      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
       "reason": "URLError"
     },
     {

@@ -1,14 +1,9 @@
 {
-  "checked_at": "2026-11-08 00:34 UTC",
+  "checked_at": "2026-11-08 01:51 UTC",
   "total": 83,
-  "working": 63,
-  "dead": 20,
+  "working": 65,
+  "dead": 18,
   "dead_channels": [
-    {
-      "name": "Cartoon Network (India) (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8",
-      "reason": "HTTPError"
-    },
     {
       "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",CVR OM Spiritual (576p)",
       "url": "https://fta.ektv.in/live/705/master.m3u8",
@@ -77,11 +72,6 @@
     {
       "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",Nireekshana TV (576p)",
       "url": "https://fta.ektv.in/live/706/master.m3u8",
-      "reason": "HTTPError"
-    },
-    {
-      "name": "Pogo (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8",
       "reason": "HTTPError"
     },
     {

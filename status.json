@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-09 04:50 UTC",
+  "checked_at": "2026-11-09 05:51 UTC",
   "total": 82,
-  "working": 61,
-  "dead": 21,
+  "working": 60,
+  "dead": 22,
   "dead_channels": [
     {
       "name": "Cartoon Network HD+ (1080p)",
@@ -67,6 +67,11 @@
     {
       "name": "ETV Telugu HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8",
+      "reason": "HTTPError"
+    },
+    {
+      "name": "Gospel TV India (576p)",
+      "url": "https://server.livelegitpro.in:9899/gospeltv/index.m3u8",
       "reason": "HTTPError"
     },
     {

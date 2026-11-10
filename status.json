@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-10 06:46 UTC",
+  "checked_at": "2026-11-10 07:59 UTC",
   "total": 82,
-  "working": 57,
-  "dead": 25,
+  "working": 55,
+  "dead": 27,
   "dead_channels": [
     {
       "name": "Cartoon Network (India) (720p)",
@@ -17,6 +17,11 @@
     {
       "name": "CVR News (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8",
+      "reason": "HTTPError"
+    },
+    {
+      "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",CVR OM Spiritual (576p)",
+      "url": "https://fta.ektv.in/live/705/master.m3u8",
       "reason": "HTTPError"
     },
     {
@@ -50,11 +55,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -68,6 +68,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTPError"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -108,6 +113,11 @@
       "name": "Nickelodeon (India) (576p)",
       "url": "http://103.185.24.134:3001/NICK/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",Nireekshana TV (576p)",
+      "url": "https://fta.ektv.in/live/706/master.m3u8",
+      "reason": "HTTPError"
     },
     {
       "name": "Pogo (720p)",

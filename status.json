@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09 23:58 UTC",
+  "checked_at": "2026-11-10 00:46 UTC",
   "total": 82,
   "working": 59,
   "dead": 23,
@@ -7,7 +7,7 @@
     {
       "name": "Cartoon Network (India) (720p)",
       "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8",
-      "reason": "HTTPError"
+      "reason": "URLError"
     },
     {
       "name": "Cartoon Network HD+ (1080p)",
@@ -22,7 +22,7 @@
     {
       "name": "Discovery Channel (India) (720p)",
       "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8",
-      "reason": "HTTPError"
+      "reason": "URLError"
     },
     {
       "name": "Discovery Channel (India) HD (1080p)",
@@ -32,7 +32,7 @@
     {
       "name": "Discovery Kids (720p)",
       "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8",
-      "reason": "HTTPError"
+      "reason": "URLError"
     },
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -102,7 +102,7 @@
     {
       "name": "Pogo (720p)",
       "url": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8",
-      "reason": "HTTPError"
+      "reason": "URLError"
     },
     {
       "name": "Sonic (576p)",

@@ -1,9 +1,14 @@
 {
-  "checked_at": "2026-11-10 02:38 UTC",
+  "checked_at": "2026-11-10 03:37 UTC",
   "total": 82,
   "working": 57,
   "dead": 25,
   "dead_channels": [
+    {
+      "name": "4 SiDES TV (1080p)",
+      "url": "https://stream.ottlive.co.in/4sidestv/index.m3u8",
+      "reason": "HTTPError"
+    },
     {
       "name": "Cartoon Network (India) (720p)",
       "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8",
@@ -63,11 +68,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTPError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",

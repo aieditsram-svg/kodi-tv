@@ -1,14 +1,9 @@
 {
-  "checked_at": "2026-11-10 23:56 UTC",
-  "total": 82,
+  "checked_at": "2026-11-11 00:37 UTC",
+  "total": 79,
   "working": 56,
-  "dead": 26,
+  "dead": 23,
   "dead_channels": [
-    {
-      "name": "Cartoon Network (India) (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8",
-      "reason": "HTTPError"
-    },
     {
       "name": "Cartoon Network HD+ (1080p)",
       "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
@@ -25,19 +20,9 @@
       "reason": "HTTPError"
     },
     {
-      "name": "Discovery Channel (India) (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8",
-      "reason": "HTTPError"
-    },
-    {
       "name": "Discovery Channel (India) HD (1080p)",
       "url": "http://103.135.253.32:8080/DISCOVERY/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Discovery Kids (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8",
-      "reason": "HTTPError"
     },
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -115,9 +100,9 @@
       "reason": "URLError"
     },
     {
-      "name": "Pogo (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8",
-      "reason": "HTTPError"
+      "name": "Pogo (576p)",
+      "url": "http://103.135.253.32:8080/POGO/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Sonic (576p)",

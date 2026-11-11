@@ -1,17 +1,12 @@
 {
-  "checked_at": "2026-11-11 03:41 UTC",
+  "checked_at": "2026-11-11 04:44 UTC",
   "total": 79,
-  "working": 53,
-  "dead": 26,
+  "working": 54,
+  "dead": 25,
   "dead_channels": [
     {
       "name": "Cartoon Network HD+ (1080p)",
       "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Chhaya Chitram Telugu (360p)",
-      "url": "https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8",
       "reason": "URLError"
     },
     {

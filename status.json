@@ -1,9 +1,14 @@
 {
-  "checked_at": "2026-11-13 16:41 UTC",
+  "checked_at": "2026-11-13 17:38 UTC",
   "total": 77,
   "working": 57,
   "dead": 20,
   "dead_channels": [
+    {
+      "name": "BRK News (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
+      "reason": "HTTPError"
+    },
     {
       "name": "Cartoon Network HD+ (1080p)",
       "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
@@ -72,11 +77,6 @@
     {
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
-      "reason": "HTTPError"
-    },
-    {
-      "name": "Mahaa News (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8",
       "reason": "HTTPError"
     },
     {

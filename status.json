@@ -1,37 +1,17 @@
 {
-  "checked_at": "2026-11-16 09:33 UTC",
+  "checked_at": "2026-11-16 11:06 UTC",
   "total": 77,
-  "working": 48,
-  "dead": 29,
+  "working": 60,
+  "dead": 17,
   "dead_channels": [
-    {
-      "name": "6 TV Telugu (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "10 TV (720p)",
-      "url": "https://mumbai-edge.smartplaytv.in/10TV/index.m3u8",
-      "reason": "URLError"
-    },
     {
       "name": "BRK News (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTPError"
     },
     {
       "name": "Cartoon Network HD+ (1080p)",
       "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "CVR Health (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "CVR News (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -52,17 +32,12 @@
     {
       "name": "ETV Life (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTPError"
     },
     {
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
+      "reason": "HTTPError"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -77,7 +52,7 @@
     {
       "name": "ETV Telugu HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTPError"
     },
     {
       "name": "Gospel TV India (576p)",
@@ -87,22 +62,7 @@
     {
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Mahaa Bhakti (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Mahaa Max (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/MahaMax/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Mahaa News (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTPError"
     },
     {
       "name": "Nickelodeon (India) (576p)",
@@ -110,23 +70,8 @@
       "reason": "URLError"
     },
     {
-      "name": "NTV Telugu (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "PMC Telugu (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/PMC/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Pogo (576p)",
       "url": "http://103.135.253.32:8080/POGO/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Prime9 News (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -140,14 +85,9 @@
       "reason": "URLError"
     },
     {
-      "name": "Swatantra TV (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Vanitha TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VanithaTV/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTPError"
     }
   ]
 }

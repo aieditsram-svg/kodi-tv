@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-18 18:14 UTC",
+  "checked_at": "2026-11-18 19:24 UTC",
   "total": 76,
-  "working": 61,
-  "dead": 15,
+  "working": 62,
+  "dead": 14,
   "dead_channels": [
     {
       "name": "Cartoon Network HD+ (1080p)",
@@ -68,11 +68,6 @@
       "name": "Sonic (576p)",
       "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sony Yay! (1080p)",
-      "url": "https://r2.amml.in/sony-yay/live.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Vanitha TV (576p)",

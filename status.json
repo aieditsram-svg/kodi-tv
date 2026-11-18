@@ -1,18 +1,13 @@
 {
-  "checked_at": "2026-11-18 10:50 UTC",
+  "checked_at": "2026-11-18 11:48 UTC",
   "total": 76,
-  "working": 60,
-  "dead": 16,
+  "working": 61,
+  "dead": 15,
   "dead_channels": [
     {
       "name": "Cartoon Network HD+ (1080p)",
       "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"General\",DD Yadagiri (576p)",
-      "url": "https://fta.ektv.in/live/678/master.m3u8",
-      "reason": "HTTPError"
     },
     {
       "name": "Discovery Channel (India) HD (1080p)",

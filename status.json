@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-18 08:50 UTC",
+  "checked_at": "2026-11-18 09:47 UTC",
   "total": 76,
-  "working": 59,
-  "dead": 17,
+  "working": 61,
+  "dead": 15,
   "dead_channels": [
-    {
-      "name": "6 TV Telugu (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
-      "reason": "HTTPError"
-    },
     {
       "name": "Cartoon Network HD+ (1080p)",
       "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"General\",DD Yadagiri (576p)",
+      "url": "https://fta.ektv.in/live/678/master.m3u8",
+      "reason": "HTTPError"
     },
     {
       "name": "Discovery Channel (India) HD (1080p)",
@@ -23,11 +23,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -43,11 +38,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTPError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",

@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-19 01:44 UTC",
-  "total": 76,
-  "working": 61,
-  "dead": 15,
+  "checked_at": "2026-11-19 02:41 UTC",
+  "total": 77,
+  "working": 68,
+  "dead": 9,
   "dead_channels": [
     {
       "name": "Cartoon Network HD+ (1080p)",
@@ -23,36 +23,6 @@
       "name": "ETV Cinema (396p)",
       "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
       "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "ETV Cinema HD (1080p)",
-      "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ETV Life (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8",
-      "reason": "HTTPError"
-    },
-    {
-      "name": "ETV Music (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
-      "reason": "HTTPError"
-    },
-    {
-      "name": "ETV Plus HD (1080p)",
-      "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ETV Telangana (1080p)",
-      "url": "https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "ETV Telugu HD (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8",
-      "reason": "HTTPError"
     },
     {
       "name": "Hindu Dharmam (1080p)",

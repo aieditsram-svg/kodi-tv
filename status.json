@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-21 14:39 UTC",
+  "checked_at": "2026-11-21 15:33 UTC",
   "total": 82,
-  "working": 73,
-  "dead": 9,
+  "working": 71,
+  "dead": 11,
   "dead_channels": [
     {
       "name": "BRK News (720p)",
@@ -25,6 +25,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "HTTPError"
@@ -43,6 +48,11 @@
       "name": "Sonic (576p)",
       "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Maa HD (720p)",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8",
+      "reason": "HTTPError"
     },
     {
       "name": "Vanitha TV (576p)",

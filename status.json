@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-21 16:33 UTC",
+  "checked_at": "2026-11-21 17:30 UTC",
   "total": 82,
-  "working": 72,
-  "dead": 10,
+  "working": 71,
+  "dead": 11,
   "dead_channels": [
     {
       "name": "BRK News (720p)",
@@ -25,6 +25,16 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "HTTPError"
@@ -43,11 +53,6 @@
       "name": "Sonic (576p)",
       "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sony BBC Earth HD (1080p)",
-      "url": "http://116.90.120.149:8000/play/a130/index.m3u8",
-      "reason": "RemoteDisconnected"
     },
     {
       "name": "Vanitha TV (576p)",

@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-22 17:32 UTC",
+  "checked_at": "2026-11-22 18:30 UTC",
   "total": 82,
-  "working": 63,
-  "dead": 19,
+  "working": 65,
+  "dead": 17,
   "dead_channels": [
     {
       "name": "BRK News (720p)",
@@ -33,11 +33,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Hindu Dharmam (1080p)",
@@ -83,11 +78,6 @@
       "name": "Sony Pix HD (1080p)",
       "url": "http://116.90.120.149:8000/play/a138/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sony Yay! (1080p)",
-      "url": "https://r2.amml.in/sony-yay/live.m3u8",
-      "reason": "HTTPError"
     },
     {
       "name": "Star Sports 2 HD (1080p)",

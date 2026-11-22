@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-22 05:45 UTC",
+  "checked_at": "2026-11-22 06:49 UTC",
   "total": 82,
-  "working": 72,
-  "dead": 10,
+  "working": 71,
+  "dead": 11,
   "dead_channels": [
     {
       "name": "BRK News (720p)",
@@ -48,6 +48,11 @@
       "name": "Sonic (576p)",
       "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Swatantra TV (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8",
+      "reason": "HTTPError"
     },
     {
       "name": "Vanitha TV (576p)",

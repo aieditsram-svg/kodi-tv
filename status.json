@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-22 09:38 UTC",
+  "checked_at": "2026-11-22 10:37 UTC",
   "total": 82,
-  "working": 73,
-  "dead": 9,
+  "working": 71,
+  "dead": 11,
   "dead_channels": [
     {
       "name": "BRK News (720p)",
@@ -13,6 +13,11 @@
       "name": "Cartoon Network HD+ (1080p)",
       "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",CVR OM Spiritual (576p)",
+      "url": "https://fta.ektv.in/live/705/master.m3u8",
+      "reason": "HTTPError"
     },
     {
       "name": "Discovery Channel (India) HD (1080p)",
@@ -33,6 +38,11 @@
       "name": "Nickelodeon (India) (576p)",
       "url": "http://103.135.253.32:8080/NICK/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Religious\",Nireekshana TV (576p)",
+      "url": "https://fta.ektv.in/live/706/master.m3u8",
+      "reason": "HTTPError"
     },
     {
       "name": "Pogo (576p)",

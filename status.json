@@ -1,12 +1,22 @@
 {
-  "checked_at": "2026-11-26 09:01 UTC",
+  "checked_at": "2026-11-26 19:11 UTC",
   "total": 70,
-  "working": 68,
-  "dead": 2,
+  "working": 66,
+  "dead": 4,
   "dead_channels": [
     {
       "name": "6 TV Telugu (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
+      "reason": "HTTPError"
+    },
+    {
+      "name": "BRK News (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8",
+      "reason": "HTTPError"
+    },
+    {
+      "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"General\",DD Yadagiri (576p)",
+      "url": "https://fta.ektv.in/live/678/master.m3u8",
       "reason": "HTTPError"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-27 02:19 UTC",
+  "checked_at": "2026-11-27 11:05 UTC",
   "total": 73,
   "working": 70,
   "dead": 3,
@@ -10,13 +10,13 @@
       "reason": "HTTPError"
     },
     {
-      "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"General\",DD Yadagiri (576p)",
-      "url": "https://fta.ektv.in/live/678/master.m3u8",
+      "name": "Hindu Dharmam (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "HTTPError"
     },
     {
-      "name": "Hindu Dharmam (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
+      "name": "Star Maa HD (720p)",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8",
       "reason": "HTTPError"
     }
   ]
